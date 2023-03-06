@@ -5,6 +5,9 @@ Essentially a start and goal are defined by the user in a 2D grid along with the
 In the simulation:
 start - orange
 goal - turqoise
+obstacles - black
 open nodes - green
 closed nodes - red
 optimal path - yellow
+
+Algorithm start when [space] key pressed.
